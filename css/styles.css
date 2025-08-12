@@ -586,9 +586,6 @@ section {
 .form-input:focus + .form-icon {
   fill: #4d5ae5;
 }
-.form-wrap {
-  margin-bottom: 16px;
-}
 .form-comment {
   height: 120px;
   padding: 8px 16px;
